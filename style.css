@@ -1,0 +1,11 @@
+body {
+    background-color: #dedede;
+}
+
+#login{
+    height: 100vh;
+}
+
+#login form{
+    background-color: #fff;
+}
